@@ -1,7 +1,7 @@
 # Privacy Policy 
 
 
-**Adria Devs** built the <b>Daily Mudras</b> as a Free app with in-app-purchases for the Google Play Store. This SERVICE is provided by Spiritualize Me at no cost and is intended for use as is. 
+**Adria Devs** built the <b>Daily Mudras</b> as a Free app with in-app-purchases for the Google Play Store. This SERVICE is provided by Adria Devs at no cost and is intended for use as is. 
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. 
 
